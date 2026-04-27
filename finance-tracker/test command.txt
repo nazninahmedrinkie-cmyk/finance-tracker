@@ -1,0 +1,6 @@
+Code for check the unit test
+./vendor/bin/phpunit tests
+
+
+code for check frontend code
+npm test
