@@ -5,8 +5,8 @@
   color: #fff;
   position: relative;
   background:
-    radial-gradient(ellipse 80% 60% at 10% 20%,  rgba(0, 212, 170, 0.18) 0%, transparent 55%),
-    radial-gradient(ellipse 70% 70% at 90% 80%,  rgba(240, 165, 0, 0.14) 0%, transparent 55%),
+    radial-gradient(ellipse 80% 60% at 10% 20%,  rgba(0, 212, 170, 0.18) 0%, transparent 56%),
+    radial-gradient(ellipse 70% 70% at 90% 80%,  rgba(240, 165, 0, 0.14) 0%, transparent 57%),
     radial-gradient(ellipse 100% 100% at 50% 50%, rgba(45, 52, 110, 0.92) 0%, #07080f 100%);
   background-attachment: fixed;
 }
