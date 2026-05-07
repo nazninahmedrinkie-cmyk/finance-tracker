@@ -7,11 +7,11 @@
   --emerald: #00c896;
   --rose: #ff6b7a;
   --bg-dark: #0b0e14;
-  --bg-card: rgba(255, 255, 255, 0.06);
-  --glass-border: rgba(245, 200, 66, 0.18);
+  --bg-card: rgba(255, 255, 255, 0.07);
+  --glass-border: rgba(245, 200, 66, 0.17);
   --text-primary: #f0eee6;
   --text-secondary: rgba(240, 238, 230, 0.62);
-  --shadow-gold: 0 8px 40px rgba(245, 200, 66, 0.18);
+  --shadow-gold: 0 8px 40px rgba(245, 200, 66, 0.17);
 }
 
 *,
